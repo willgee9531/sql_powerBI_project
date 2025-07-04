@@ -51,8 +51,7 @@ The rapid evolution of the data industry has made it essential for job seekers, 
 - **Educators/Trainers:** Tailor curriculum to emphasize the most in-demand skills for remote Data Analyst positions.
 
 **Note:**
-- The query only considers jobs with the exact title "Data Analyst" and remote work, so it may miss related roles (e.g., "Senior Data Analyst", "Data Analytics Specialist") or hybrid jobs.
-- To broaden the analysis, consider using `LIKE '%Data Analyst%'` for job titles or including hybrid/onsite roles for comparison.
+- To broaden the analysis, consider including hybrid/onsite roles for comparison.
 
 **SQL Query:**
 ````sql
@@ -108,7 +107,6 @@ LIMIT 5;
 - **Educators/Trainers:** Advise students on lucrative career paths and locations.
 
 **Note:**
-- Averages may be skewed by outliers or incomplete data.
 - The query only considers postings with a specified yearly salary (`salary_year_avg IS NOT NULL`).
 
 **SQL Query:**
@@ -188,7 +186,6 @@ ORDER BY
 
 **Note:**
 - The analysis only includes jobs with a specified yearly salary (`salary_year_avg IS NOT NULL`).
-- The meaning of `job_no_degree_mention` depends on how the field is defined (e.g., TRUE if no degree is mentioned).
 
 **SQL Query:**
 ````sql
