@@ -4,7 +4,7 @@
 
 🔍SQL queries? Check them out here: [project_queries](/project_queries/)
 
-## 1. Project Motivation / Background 💡
+## Project Motivation / Background 💡
 
 The rapid evolution of the data industry has made it essential for job seekers, employers, and educators to stay updated on current market trends. This project was inspired by the need to understand which skills, qualifications, and roles are most valued in the remote data analyst job market, and to provide actionable insights for career and curriculum development.
 
