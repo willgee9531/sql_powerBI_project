@@ -2,7 +2,7 @@
 
 📊 This project explores the data job market trends, focusing on 🔥 in-demand skills, 💰 salary benchmarks, 📈 remote work trends, and 🎓 degree requirements for data analysts roles.
 
-🔍SQL queries? Check them out here: [project_queries](/project_queries/)
+🔍SQL queries? Check them out here: [project_queries folder](/project_queries/)
 
 ## Project Motivation / Background 💡
 
