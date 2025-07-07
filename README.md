@@ -79,7 +79,7 @@ LIMIT 5;
 
 | Skills     | Skill Type    | Demand Count |
 |------------|---------------|--------------|
-| SQL        | Programming   | 7291         |
+| sql        | Programming   | 7291         |
 | Excel      | Analyst Tools | 4611         |
 | Python     | Programming   | 4330         |
 | Tableau    | Analyst Tools | 3745         |
