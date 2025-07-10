@@ -1,3 +1,4 @@
+-- Active: 1751133673814@@localhost@5432@sql_course
 /*
 What it does:
 -- Aggregates job postings by job title and country.
