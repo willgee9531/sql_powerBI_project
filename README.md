@@ -93,6 +93,8 @@ LIMIT 5;
 
 _Table of the demand for the top 5 skills in remote data analyst job postings_
 
+![query 1](powerBI_dashboards\query1.PNG)
+
 ## [<small>back to top</small>⤴](#the-analysis-)
 
 ## 2. Average Yearly Salary by Role and Country 💵🌍
@@ -135,6 +137,9 @@ GROUP BY
 ORDER BY
     avg_yearly_salary DESC;
 ```
+
+![query 1](powerBI_dashboards\query2.PNG)
+
 
 ## [<small>back to top</small>⤴](#the-analysis-)
 
@@ -182,6 +187,7 @@ GROUP BY
 ORDER BY
     remote_job_count DESC;
 ```
+![query 1](powerBI_dashboards\query3.PNG)
 
 ## [<small>back to top</small>⤴](#the-analysis-)
 
@@ -222,6 +228,7 @@ WHERE
 GROUP BY
     job_no_degree_mention;
 ```
+![query 1](powerBI_dashboards\query4.PNG)
 
 ## [<small>back to top</small>⤴](#the-analysis-)
 
